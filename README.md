@@ -1,2 +1,0 @@
-# Battleship
- Multiplayer Game
